@@ -1,0 +1,19 @@
+{
+    "name": "dealense/neartoroute",
+    "description": "if you want to know which your database locations are near to your chosen route that the package you are searching for.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dealense7",
+            "email": "60123889+dealense7@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dealense\\NearToRoute\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
